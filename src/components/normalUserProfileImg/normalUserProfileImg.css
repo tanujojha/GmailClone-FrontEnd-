@@ -1,0 +1,10 @@
+.NUPI{
+    background-color: rgb(36, 140, 140);
+    width: 40px;
+    border-radius: 50%;
+    cursor: pointer;
+    padding: 0;
+    font-size: 1.3rem;
+    margin: 0;
+    /* border: 2px solid gray */
+}

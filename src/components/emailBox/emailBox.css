@@ -1,0 +1,65 @@
+.subjicondiv{
+    display: flex;
+    justify-content: space-between;
+    padding: 0 10px 5px 80px;
+}
+
+/* #MAIN PART########## */
+.maincontdiv{
+    display: flex;
+    gap: 30px;
+
+}
+
+/* user icon */
+.usericondiv{
+    padding-top: 20px;
+}
+
+.usericon{
+    /* width: ; */
+}
+
+/* content  */
+.contdiv{
+    padding-top: 20px;
+    width: 100%;
+}
+
+.contdiv p {
+    padding-bottom: 0;
+    margin-bottom: 0;
+}
+
+.namedateicondiv{
+    display: flex;
+    justify-content: space-between;
+   
+}
+
+.namediv{
+    font-weight: 700;
+}
+
+
+.icondtediv{
+    display: flex;
+    gap: 10px;
+}
+
+.icondiveb > *{
+    margin: 0 5px ;
+    
+}
+
+.tome{
+    text-align: left;
+    font-size: 13px;
+    color: rgb(110, 109, 109);
+}
+
+.msgpartdiv{
+    text-align: left;
+    font-size: 15px;
+    margin-top: 30px;
+}

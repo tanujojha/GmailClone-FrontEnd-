@@ -1,0 +1,61 @@
+/* EMAIL TAB ############################ */
+
+.emailtab{
+    display: flex;
+    justify-content: space-between;
+    gap: 50px;
+    border-bottom: 1px solid black;
+    cursor: pointer;
+}
+
+.emailtab:hover{
+    box-shadow: 2px 2px 2px gray;
+}
+
+.emailTabCSF{
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+    align-items: center;
+    margin-left: 10px;
+}
+
+#starET{
+    cursor: pointer;
+
+}
+
+#starET:hover{
+    background-color: rgb(196, 211, 223);
+    border-radius: 50%;
+}
+
+.emailTabFrom{
+    font-size: 15px;
+    /* height: 100%; */
+    padding-top: 17px;
+    line-height: 0;
+}
+
+.emailTabSUB{
+    width: 700px;
+    text-align: left;
+    /* margin-left: -20%; */
+    /* border: 2px solid red; */
+}
+
+.emailTabSUB > p{
+    white-space: nowrap;
+    text-overflow: ellipsis;
+    overflow: hidden;
+    padding-top: 10px;
+}
+
+.emailTabDT{
+   margin-right: 20px;
+}
+
+.emailTabDT > p{
+    padding-top: 10px;
+}
+

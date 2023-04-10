@@ -1,0 +1,40 @@
+#Dbox{
+    /* background-color: red ; */
+}
+
+
+#Dappbar{
+    /* position: relative; */
+    /* display: flex;
+    justify-content: space-evenly; */
+    height: 60px;
+}
+
+#toolbar{
+    /* margin-bottom: 100px; */
+
+}
+
+#Ddrawer{
+    /* position: absolute;
+    top: 100px; */
+}
+
+#topicondiv{
+    display: flex;
+    gap: 30px;
+    position: absolute;
+    right: 10px;
+}
+
+#search{
+    width: 40vw;
+    
+    margin-left: 8rem;
+}
+
+.profileIMG{
+    width: 30px;
+    cursor: pointer;
+    border-radius: 50%;
+}
